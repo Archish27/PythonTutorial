@@ -32,3 +32,19 @@ Intermediate tutorials enables where actually list,tuple or dictionary can be us
 * Multiprocessing
 * Process Communication
 * OOP Advanced
+
+Data Analysis - Part 3
+------------
+Data Analysis tutorial deals with datasets & includes various libaries to transform such datasets.
+
+* Pandas Basics
+* Pandas Examples
+* Pandas I/O
+* Building Datasets
+* Concatenation 
+* Merge & Join
+* Pickling
+* Percentage Change
+* Correlation 
+* Sampling 
+
